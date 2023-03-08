@@ -1,0 +1,8 @@
+D:\Uni\OOP\COS20007-OOP\HelloMessage\HelloMessage\HelloMessage\bin\Debug\HelloMessage.exe.config
+D:\Uni\OOP\COS20007-OOP\HelloMessage\HelloMessage\HelloMessage\bin\Debug\HelloMessage.exe
+D:\Uni\OOP\COS20007-OOP\HelloMessage\HelloMessage\HelloMessage\bin\Debug\HelloMessage.pdb
+D:\Uni\OOP\COS20007-OOP\HelloMessage\HelloMessage\HelloMessage\obj\Debug\HelloMessage.csproj.AssemblyReference.cache
+D:\Uni\OOP\COS20007-OOP\HelloMessage\HelloMessage\HelloMessage\obj\Debug\HelloMessage.csproj.SuggestedBindingRedirects.cache
+D:\Uni\OOP\COS20007-OOP\HelloMessage\HelloMessage\HelloMessage\obj\Debug\HelloMessage.csproj.CoreCompileInputs.cache
+D:\Uni\OOP\COS20007-OOP\HelloMessage\HelloMessage\HelloMessage\obj\Debug\HelloMessage.exe
+D:\Uni\OOP\COS20007-OOP\HelloMessage\HelloMessage\HelloMessage\obj\Debug\HelloMessage.pdb
